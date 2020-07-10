@@ -45,3 +45,5 @@ def is_balanced(string):
 
 str = input()
 print(is_balanced(str))
+
+# Example
